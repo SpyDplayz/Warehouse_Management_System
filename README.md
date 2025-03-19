@@ -49,10 +49,15 @@ streamlit run app.py
 
 📦 wms-project
  ┣ 📂 data                # Processed data & visualizations
+ 
  ┣ 📜 app.py              # Streamlit dashboard
+ 
  ┣ 📜 wms_preprocessing.py # SKU Mapping & Inventory Processing
+ 
  ┣ 📜 database.py         # Airtable Upload Functionality
+ 
  ┣ 📜 requirements.txt    # Project dependencies
+ 
  ┣ 📜 .env                # API Keys (not included in repo)
 
 📊 How It Works
