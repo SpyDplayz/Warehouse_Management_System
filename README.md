@@ -62,7 +62,10 @@ streamlit run app.py
 
 📊 How It Works
 
-1️⃣ Upload Sales Data (CSV/JSON) in the Streamlit UI.2️⃣ Click 'Process & Upload Data' to map SKUs, update inventory, and store results.3️⃣ View Key Metrics & Charts (Total Sales, Unique SKUs, Unique MSKUs).4️⃣ Download Processed Data & Charts directly from the app.
+1️⃣ Upload Sales Data (CSV/JSON) in the Streamlit UI.
+2️⃣ Click 'Process & Upload Data' to map SKUs, update inventory, and store results.
+3️⃣ View Key Metrics & Charts (Total Sales, Unique SKUs, Unique MSKUs).
+4️⃣ Download Processed Data & Charts directly from the app.
 
 📝 Notes
 
